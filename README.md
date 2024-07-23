@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Bigboss<br>3rd year software engineer student <br>at Thammasat University</h1>
+<h1 align="center">Hey there! 👋 I'm Bigboss<br>4th year software engineer student <br>at Thammasat University</h1>
 
 ###
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
